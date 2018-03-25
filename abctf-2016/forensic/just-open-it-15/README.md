@@ -18,5 +18,6 @@ This should reveal `ABCTF{forensics_1_tooo_easy?}`
 
 ## Other write-ups and resources
 
-* http://rawsec.ml/en/ABCTF-15-Just-open-it-Forensics/
-* https://ctftime.org/writeup/3572
+* [RawSec](https://rawsec.ml/en/ABCTF-15-Just-open-it-Forensics/)
+* [RedShield5](https://ctftime.org/writeup/3572)
+* [OMECA](https://github.com/nbrisset/CTF/blob/master/abctf-2016/challenges/just-open-it-15)

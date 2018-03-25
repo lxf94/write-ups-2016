@@ -13,6 +13,7 @@ Being a web problem, the best first step is to check out the source code of the 
 
 ## Other write-ups and resources
 
-* http://rawsec.ml/en/ABCTF-35-The-Flash-Web-Exploitation/
-* https://ctftime.org/writeup/3574
-* https://kimiyuki.net/blog/2016/07/23/abctf-2016/
+* [RawSec](https://rawsec.ml/en/ABCTF-35-The-Flash-Web-Exploitation/)
+* [RedShield5](https://ctftime.org/writeup/3574)
+* [Kimiyuki Onaka](https://kimiyuki.net/blog/2016/07/23/abctf-2016/)
+* [OMECA](https://github.com/nbrisset/CTF/blob/master/abctf-2016/challenges/the-flash-35)
